@@ -1,0 +1,16 @@
+START
+    GATHERING the ingredients for pizza
+    
+    IF: the ingredients are complete 
+      THEN
+        Roll the dough and shape into a circle
+           Bake for 10 to 15 minutes until the crust is golden
+      ADD
+        the sauce and toppings
+        Slice the pizza and serve
+
+    ELSE:
+      THEN
+        Buy the rest ingredients
+        Repeat the process from the beginning
+END
